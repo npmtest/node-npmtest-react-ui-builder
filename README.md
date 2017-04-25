@@ -1,6 +1,6 @@
 # npmtest-react-ui-builder
 
-#### test coverage for  [react-ui-builder (v0.3.4)](https://github.com/ipselon/react-ui-builder#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-ui-builder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-ui-builder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-ui-builder.svg)](https://travis-ci.org/npmtest/node-npmtest-react-ui-builder)
+#### basic test coverage for  [react-ui-builder (v0.3.4)](https://github.com/ipselon/react-ui-builder#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-ui-builder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-ui-builder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-ui-builder.svg)](https://travis-ci.org/npmtest/node-npmtest-react-ui-builder)
 
 #### The visual tool for prototyping UI for ReactJS components and Web applications.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-ui-builder/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-ui-builder/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-ui-builder/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-ui-builder/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-ui-builder/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-ui-builder/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-ui-builder/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-ui-builder/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-ui-builder/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-ui-builder/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-ui-builder/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-ui-builder/build/coverage.html/index.html)
 
